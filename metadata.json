@@ -1,0 +1,6 @@
+{
+  "name": "OttoLauncher AI",
+  "description": "Автозапуск приложений для Ottocast Ottoscreen AI после включения и выхода из глубокого сна",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
